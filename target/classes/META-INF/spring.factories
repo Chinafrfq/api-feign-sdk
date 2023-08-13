@@ -1,0 +1,2 @@
+# 将ApiClient配置类注册到SpringBoot中，从而形成一个 starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ghp.feign.ApiFeignConfig
